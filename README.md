@@ -26,3 +26,5 @@ I am open to long and short term, as well as remote, projects and consulting ser
 
 ### My kaggle profile : https://www.kaggle.com/alimbekovkz
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimbekovkz" alt="alimbekovkz" /> </p>

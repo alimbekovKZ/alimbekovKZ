@@ -30,7 +30,9 @@ I am open to long and short term, as well as remote, projects and consulting ser
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimbekovkz&layout=compact&hide=html" alt="alimbekovkz" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimbekovkz&show_icons=true" alt="alimbekovkz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alimbekovkz&show_icons=true" alt="alimbekovkz" /></p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimbekovkz" alt="alimbekovkz" /> </p>

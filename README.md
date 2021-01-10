@@ -22,7 +22,7 @@ I am open to long and short term, as well as remote, projects and consulting ser
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-### My personal site : http://alimbekov.com/
+### My personal blog : http://alimbekov.com/
 
 ### My kaggle profile : https://www.kaggle.com/alimbekovkz
 

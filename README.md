@@ -12,4 +12,4 @@ My name is Renat and I'm a machine learning engineer. I can create, train and de
 My kaggle profile : https://www.kaggle.com/alimbekovkz
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/alimbekovkz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alimbekovkz?label=Follow&style=social)](https://twitter.com/alimbekovkz)

@@ -13,3 +13,7 @@ My kaggle profile : https://www.kaggle.com/alimbekovkz
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/alimbekovkz?label=Follow&style=social)](https://twitter.com/alimbekovkz)
+
+[![Linkedin: alimbekovkz](https://img.shields.io/badge/-Miras%20Amir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimbekovkz/)](https://www.linkedin.com/in/alimbekovkz/)
+[![Kaggle Badge](https://img.shields.io/badge/-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/alimbekovkz)](https://www.kaggle.com/alimbekovkz)
+![Profile views](https://gpvc.arturio.dev/alimbekovKZ)

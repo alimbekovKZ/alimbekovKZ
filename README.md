@@ -18,7 +18,4 @@ My kaggle profile : https://www.kaggle.com/alimbekovkz
 ![Profile views](https://gpvc.arturio.dev/alimbekovKZ)
 
 ![Renat's github stats](https://github-readme-stats.vercel.app/api?username=alimbekovKZ&show_icons=true&hide_border=true)
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light" />
-</p>
+  img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light" />

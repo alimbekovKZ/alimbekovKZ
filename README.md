@@ -11,6 +11,8 @@ My name is Renat and I'm a machine learning engineer. I can create, train and de
 
 My kaggle profile : https://www.kaggle.com/alimbekovkz
 
+You can buy my books and courses on https://app.gumroad.com/alimbekovkz
+
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/alimbekovkz?label=Follow&style=social)](https://twitter.com/alimbekovkz)
 [![Linkedin: alimbekovkz](https://img.shields.io/badge/-Renat%20Alimbekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimbekovkz/)](https://www.linkedin.com/in/alimbekovkz/)

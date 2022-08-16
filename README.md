@@ -9,7 +9,7 @@ My name is Renat and I'm a machine learning engineer. I can create, train and de
 - 💬 Get in touch with me at [Telegram](https://t.me/alimbekovkz) & [Twitter](https://twitter.com/alimbekovkz)
 - ⚡ If you want to hire me check my [Linkedin](https://www.linkedin.com/in/alimbekovkz/)
 
-My kaggle profile : https://www.kaggle.com/alimbekovkz
+My kaggle profile: https://www.kaggle.com/alimbekovkz
 
 You can buy my books and courses on https://app.gumroad.com/alimbekovkz
 

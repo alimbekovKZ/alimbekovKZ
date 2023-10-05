@@ -23,12 +23,15 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 
 # Badges
 <hr>
-<a href="https://www.kaggle.com/aykhanpy" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition">
+<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light">
 </a>
-<a href="https://www.kaggle.com/aykhanpy" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/notebook">
+<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/notebook/light">
 </a>
-<a href="https://www.kaggle.com/aykhanpy" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/dataset">
+<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/dataset/light">
+</a>   
+<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/discussion/light">
 </a>   

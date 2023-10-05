@@ -35,3 +35,9 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 <a href="https://www.kaggle.com/alimbekovkz" target="_blank">
 <img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/discussion/light">
 </a>   
+
+# Contacts
+alimbekovr@hotmail.com <br>
+<a href="https://t.me/alimbekovkz">Telegram</a> <br>
+<a href="https://www.linkedin.com/in/alimbekovkz/">LinkedIn</a> <br>
+<a href="https://www.kaggle.com/alimbekovkz">Kaggle</a> <br>

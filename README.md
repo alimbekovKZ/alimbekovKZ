@@ -21,4 +21,4 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 [![Kaggle Badge](https://img.shields.io/badge/-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/alimbekovkz)](https://www.kaggle.com/alimbekovkz)
 
 
- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light" /> ![Renat's github stats](https://github-readme-stats.vercel.app/api?username=alimbekovKZ&show_icons=true&hide_border=true)
+ <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light" />

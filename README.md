@@ -24,7 +24,7 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 # Badges
 <hr>
 <a href="https://www.kaggle.com/alimbekovkz" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competition/light">
+<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competitions/light">
 </a>
 <a href="https://www.kaggle.com/alimbekovkz" target="_blank">
 <img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/notebook/light">

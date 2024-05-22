@@ -22,7 +22,6 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 
 
 # Contacts
-<hr>
 alimbekovr@hotmail.com <br>
 <a href="https://t.me/alimbekovkz">Telegram</a> <br>
 <a href="https://www.linkedin.com/in/alimbekovkz/">LinkedIn</a> <br>

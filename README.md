@@ -21,21 +21,6 @@ My Educative course Medical Image Analysis in Python: https://www.educative.io/c
 [![Kaggle Badge](https://img.shields.io/badge/-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/alimbekovkz)](https://www.kaggle.com/alimbekovkz)
 
 
-# Badges
-<hr>
-<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/competitions/light">
-</a>
-<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/notebook/light">
-</a>
-<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/dataset/light">
-</a>   
-<a href="https://www.kaggle.com/alimbekovkz" target="_blank">
-<img align="center" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimbekovkz/discussion/light">
-</a>   
-
 # Contacts
 <hr>
 alimbekovr@hotmail.com <br>

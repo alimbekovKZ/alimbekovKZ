@@ -1,17 +1,17 @@
 ### Hello there 👋
 
-My name is Renat and I'm a machine learning engineer. I can create, train and deploy models for images and tabular data.
+My name is Renat, and I'm a machine learning engineer. I can create, train, and deploy models for images, tabular data, and LLMs.
 
-- 📱 I write tutorials and practical tips on DS and ML, talk about the career, application and training of Data Science on [my personal blog](https://alimbekov.com/)
-- 🔭 I’m currently working as a Deep Learning Scientist/ Machine Learning Engineer. I mainly work with faces and medical images.
-- 📫 If you have an collaboration idea. [Contact me](mailto:alimbekovr@hotmail.com)
-- 👯 I’m looking to collaborate on MedTech, AdTech, EduTech ans Sports projects
+- 📱 I write tutorials and practical tips on DS and ML talk about the career, application, and training of Data Science on [my personal blog](https://alimbekov.com/)
+- 🔭 I’m currently working as a Founding Research Engineer in early stage USA startup doing LLMs
+- 📫 If you have a collaboration idea. [Contact me](mailto:alimbekovr@hotmail.com)
+- 👯 I’m looking to collaborate on MedTech, AdTech, EduTech and SportTech projects
 - 💬 Get in touch with me at [Telegram](https://t.me/alimbekovkz) & [Twitter](https://twitter.com/alimbekovkz)
 - ⚡ If you want to hire me check my [Linkedin](https://www.linkedin.com/in/alimbekovkz/)
 
-My kaggle profile: https://www.kaggle.com/alimbekovkz
+My Kaggle profile: https://www.kaggle.com/alimbekovkz
 
-You can buy my books and courses on https://app.gumroad.com/alimbekovkz
+You can buy my books and courses at https://app.gumroad.com/alimbekovkz
 
 My Educative course Medical Image Analysis in Python: https://www.educative.io/courses/medical-image-analysis-python
 

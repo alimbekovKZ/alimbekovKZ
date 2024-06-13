@@ -15,7 +15,6 @@ You can buy my books and courses at https://app.gumroad.com/alimbekovkz
 
 My Educative course Medical Image Analysis in Python: https://www.educative.io/courses/medical-image-analysis-python
 
----
 [![Twitter Follow](https://img.shields.io/twitter/follow/alimbekovkz?label=Follow&style=social)](https://twitter.com/alimbekovkz)
 [![Linkedin: alimbekovkz](https://img.shields.io/badge/-Renat%20Alimbekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimbekovkz/)](https://www.linkedin.com/in/alimbekovkz/)
 [![Kaggle Badge](https://img.shields.io/badge/-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/alimbekovkz)](https://www.kaggle.com/alimbekovkz)

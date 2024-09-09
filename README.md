@@ -25,3 +25,6 @@ alimbekovr@hotmail.com <br>
 <a href="https://t.me/alimbekovkz">Telegram</a> <br>
 <a href="https://www.linkedin.com/in/alimbekovkz/">LinkedIn</a> <br>
 <a href="https://www.kaggle.com/alimbekovkz">Kaggle</a> <br>
+<a href="https://alimbekov.com/">Blog</a> <br>
+
+

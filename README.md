@@ -2,12 +2,12 @@
 
 My name is Renat, and I'm a machine learning engineer. I can create, train, and deploy models for images, tabular data, and LLMs.
 
-- 📱 I write tutorials and practical tips on DS and ML talk about the career, application, and training of Data Science on [my personal blog](https://alimbekov.com/)
+- 📱 I write tutorials and practical tips on DS and ML and talk about the career, application, and training of Data Science on [my personal blog](https://alimbekov.com/)
 - 🔭 I’m currently working as a Founding Research Engineer in early stage USA startup doing LLMs
 - 📫 If you have a collaboration idea. [Contact me](mailto:alimbekovr@hotmail.com)
 - 👯 I’m looking to collaborate on MedTech, AdTech, EduTech and SportTech projects
 - 💬 Get in touch with me at [Telegram](https://t.me/alimbekovkz) & [Twitter](https://twitter.com/alimbekovkz)
-- ⚡ If you want to hire me check my [Linkedin](https://www.linkedin.com/in/alimbekovkz/)
+- ⚡ If you want to hire me, check my [Linkedin](https://www.linkedin.com/in/alimbekovkz/)
 
 My Kaggle profile: https://www.kaggle.com/alimbekovkz
 

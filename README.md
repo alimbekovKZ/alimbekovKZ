@@ -11,8 +11,6 @@ My name is Renat, and I'm a machine learning engineer. I can create, train, and 
 
 My Kaggle profile: https://www.kaggle.com/alimbekovkz
 
-You can buy my books and courses at https://app.gumroad.com/alimbekovkz
-
 My Educative course Medical Image Analysis in Python: https://www.educative.io/courses/medical-image-analysis-python
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alimbekovkz?label=Follow&style=social)](https://twitter.com/alimbekovkz)

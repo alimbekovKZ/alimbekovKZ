@@ -3,7 +3,7 @@
 My name is Renat, and I'm a machine learning engineer. I can create, train, and deploy models for images, tabular data, and LLMs.
 
 - 📱 I write tutorials and practical tips on DS and ML and talk about the career, application, and training of Data Science on [my personal blog](https://alimbekov.com/)
-- 🔭 I’m currently working as a Founding Research Engineer in early stage USA startup doing LLMs
+- 🔭 I’m currently Data Science and Data Analytics Consultant
 - 📫 If you have a collaboration idea. [Contact me](mailto:alimbekovr@hotmail.com)
 - 👯 I’m looking to collaborate on MedTech, AdTech, EduTech and SportTech projects
 - 💬 Get in touch with me at [Telegram](https://t.me/alimbekovkz) & [Twitter](https://twitter.com/alimbekovkz)
